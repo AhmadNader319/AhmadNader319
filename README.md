@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: sondos/dis
 - ⚡ Fun fact: sondos
 -->
+[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen)
