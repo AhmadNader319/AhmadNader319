@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: sondos
 -->
 [![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen)
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
